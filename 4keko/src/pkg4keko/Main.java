@@ -18,4 +18,7 @@ public class Main {
         // TODO code application logic here
     }
     
+    public int cikarma(int x, int y){
+        return x-y;
+    }
 }
