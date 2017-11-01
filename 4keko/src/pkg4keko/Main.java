@@ -17,5 +17,8 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public int sum(int x,int y){
+        return x+y;
+    }
     
 }
