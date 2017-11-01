@@ -18,6 +18,10 @@ public class Main {
         // TODO code application logic here
     }
 
+    public int Bolme(int x, int y){
+        return x/y;
+}
+
     public int mult(int x,int y){
     return x*y;
 }
@@ -27,5 +31,6 @@ public class Main {
     
     public int cikarma(int x, int y){
         return x-y;
+
     }
 }
